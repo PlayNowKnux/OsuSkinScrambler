@@ -1,5 +1,7 @@
 # OsuSkinScrambler
 
+### IT IS ADVISED NOT TO USE THIS TOOL IF YOU SUFFER FROM EPILEPSY OR EYESTRAIN, AS SOME RESULTS COULD TRIGGER THEM.
+
 ## How do I use this?
 
 First, edit path.txt. Make sure that the path points to the "Skins" folder in your osu directory. This can be done for most people by replacing "USERNAME" with your username and changing the drive letter if necessary.
